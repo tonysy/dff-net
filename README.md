@@ -22,6 +22,7 @@ Each time you evaluate, run
 ```bash
 cp data/kitti/results/* kitti_eval/results/frcnn/data
 ./test.sh
+```
 
 ### Train (Direct Detection)
 1. Make `model` in `HOME`.
